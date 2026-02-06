@@ -347,17 +347,10 @@ server.port=8081
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the Unlicensed
 
 ## 👨‍💻 Contributors
 
-- Your Name
-
-## 📞 Support
-
-For issues and questions:
-- Create an issue in the repository
-- Email: support@school.com
-
+- Aryan Mishra
 ---
 **Happy Coding! 🎉**
